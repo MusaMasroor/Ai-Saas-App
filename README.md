@@ -26,7 +26,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Genie Art that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
+Genie Art excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
